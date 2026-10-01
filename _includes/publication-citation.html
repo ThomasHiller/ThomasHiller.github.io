@@ -1,0 +1,15 @@
+<p class="publication-citation">
+  {{ post.citation }}
+
+  {% if post.doiurl %}
+    <a href="{{ post.doiurl }}"
+       target="_blank"
+       rel="noopener noreferrer">[DOI]</a>
+  {% endif %}
+
+  {% if post.paperurl %}
+    <a href="{{ post.paperurl }}"
+       target="_blank"
+       rel="noopener noreferrer">[PDF]</a>
+  {% endif %}
+</p>
