@@ -9,6 +9,7 @@ publication_order: 23
 venue: Biotropica
 doiurl: https://doi.org/10.1111/btp.70185
 citation: Becker D, Rojas E, Rodriguez-Herrera B, Grass I, <strong>Hiller T</strong> (2026). Predation on Northern
-  Silky Anteater (Cyclopes dorsalis) by Tiger Rat Snake (Spilotes pullatus) in a Rainforest Fragment in Costa Rica.
-  <i>Biotropica</i>.
+  Silky Anteater (<i>Cyclopes dorsalis</i>) by Tiger Rat Snake (<i>Spilotes pullatus</i>) in a Rainforest Fragment in Costa Rica.
+  <i>Biotropica</i> 58(2).
+paperurl: https://onlinelibrary.wiley.com/doi/epdf/10.1111/btp.70185
 ---
