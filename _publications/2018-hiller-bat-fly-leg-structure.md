@@ -10,5 +10,5 @@ venue: Parasitology
 doiurl: https://doi.org/10.1017/S0031182018000318
 citation: '<strong>Hiller T</strong>, Honner B, Page RA, Tschapka M (2018). Leg structure explains host site preference
   in bat flies (Diptera: Streblidae) parasitizing neotropical bats (Chiroptera: Phyllostomidae). <i>Parasitology</i>
-  145, 1475–1482.'
+  145(11).'
 ---

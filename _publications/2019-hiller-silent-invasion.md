@@ -9,5 +9,6 @@ publication_order: 9
 venue: PLoS ONE
 doiurl: https://doi.org/10.1371/journal.pone.0220082
 citation: '<strong>Hiller T</strong>, Haelewaters D (2019). A case of silent invasion: Citizen science confirms
-  the presence of Harmonia axyridis (Coleoptera, Coccinellidae) in Central America. <i>PLoS ONE</i>.'
+  the presence of Harmonia axyridis (Coleoptera, Coccinellidae) in Central America. <i>PLoS ONE</i> 14(7).'
+paperurl: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0220082&type=printable
 ---

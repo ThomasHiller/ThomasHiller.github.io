@@ -9,5 +9,6 @@ venue: Journal of Fungi
 doiurl: https://doi.org/10.3390/jof6040361
 citation: 'de Groot MD, Dumolein I, <strong>Hiller T</strong>, Sándor AD, Szentiványi T, Schilthuizen M, Aime MC,
   Verbeken A, Haelewaters D (2020). On the fly: Tritrophic associations of bats, bat flies, and fungi. <i>Journal
-  of Fungi</i>.'
+  of Fungi</i> 6(4).'
+paperurl: https://www.mdpi.com/2309-608X/6/4/361/pdf?version=1607993954
 ---

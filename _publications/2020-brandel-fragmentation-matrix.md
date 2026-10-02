@@ -8,5 +8,6 @@ publication_order: 12
 venue: Biological Conservation
 doiurl: https://doi.org/10.1016/j.biocon.2020.108792
 citation: 'Brändel SD, <strong>Hiller T</strong>, Halczok TK, Kerth G, Page RA, Tschapka M (2020). Consequences
-  of fragmentation for Neotropical bats: The importance of the matrix. <i>Biological Conservation</i>.'
+  of fragmentation for Neotropical bats: The importance of the matrix. <i>Biological Conservation</i> 252.'
+paperurl: https://www.sciencedirect.com/science/article/pii/S0006320720308508/pdfft?md5=0aeab5ca144c9c0470e6826012c7cbd8&pid=1-s2.0-S0006320720308508-main.pdf
 ---

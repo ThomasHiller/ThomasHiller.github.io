@@ -10,5 +10,6 @@ venue: Frontiers in Ecology and Evolution
 doiurl: https://doi.org/10.3389/fevo.2022.773423
 citation: Haelewaters D, <strong>Hiller T</strong>, Ceryngier P, Eschen R, Gorczak M, Houston ML, Kisło K, Knapp
   M, Landeka N, Pfliegler WP, Zach P, Aime MC, Nedvěd O (2022). Do biotic and abiotic factors influence the prevalence
-  of a common parasite of the invasive alien ladybird Harmonia axyridis?. <i>Frontiers in Ecology and Evolution</i>.
+  of a common parasite of the invasive alien ladybird <i>Harmonia axyridis</i>?. <i>Frontiers in Ecology and Evolution</i> 10:773423.
+paperurl: https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.773423/pdf
 ---
