@@ -21,10 +21,12 @@ Ecology of Tropical Agricultural Systems
 
 **2013–2020 · PhD in Ecology**  
 University of Ulm, Germany · *magna cum laude*  
-Research conducted in collaboration with the Smithsonian Tropical Research Institute, Panama.
+Thesis: *Habitat loss and ecosystem health: bats, pathogens, and parasites in Central America.*
+Research and field work conducted in collaboration with the Smithsonian Tropical Research Institute, Panama.
 
 **2006–2012 · Diploma in Biology (MSc equivalent)**  
 University of Ulm, Germany
+Thesis: *Bat flies (Diptera: Streblidae) on cave-dwelling bats in Costa Rica.*
 
 **2009–2010 · Academic exchange in Tropical Biology**  
 Universidad de Costa Rica, Costa Rica · DAAD scholarship
